@@ -13,7 +13,7 @@ body{
 }
 
 .main-container{
-    background:#000000;
+    background:#A64D79;
     padding:25px;
     width:350px;
     border-radius: 10px;
@@ -37,7 +37,7 @@ body{
 }
 
 button {
-    background: #333333;
+    background: #3B1C32;
     color: #fff;
     font-size: 1.5rem;
     border: none;
@@ -66,12 +66,12 @@ button {
   }
   
   .key-operate {
-    background: #a6a6a6;
+    background: #6A1E55;
     color: #000000;
 
   }
   
   .key-others {
-    background: #a6a6a6;
+    background: #6A1E55;
     color: #000000;
   }
